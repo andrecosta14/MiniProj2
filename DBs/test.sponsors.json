@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "65679380a86cbe06d201df2b"
+  },
+  "active": true,
+  "name": "Pawsome Partners",
+  "supportedanimal": "Gatos",
+  "sponsoredamount": 11200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65679443a86cbe06d201df2c"
+  },
+  "active": true,
+  "name": "Critter Sponsors",
+  "supportedanimal": "Cães",
+  "sponsoredamount": 8500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567989ea86cbe06d201df2e"
+  },
+  "active": true,
+  "name": "Whisker Wonders",
+  "supportedanimal": "Papagaios",
+  "sponsoredamount": 12000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656798dda86cbe06d201df2f"
+  },
+  "active": true,
+  "name": "Furry Financiers",
+  "supportedanimal": "Peixes",
+  "sponsoredamount": 7000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65679903a86cbe06d201df30"
+  },
+  "active": true,
+  "name": "Feathery Funders",
+  "supportedanimal": "Coelhos",
+  "sponsoredamount": 9500,
+  "__v": 0
+}]

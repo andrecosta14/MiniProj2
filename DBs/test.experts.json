@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6567b05c6b947e0e4d5647e7"
+  },
+  "active": true,
+  "name": "João Silva",
+  "specialty": "Leões",
+  "experience": 8,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567b0816b947e0e4d5647e8"
+  },
+  "active": true,
+  "name": "Carlos Rodriguez",
+  "specialty": "Elefantes",
+  "experience": 12,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567b0a06b947e0e4d5647e9"
+  },
+  "active": true,
+  "name": "Miguel Pereira",
+  "specialty": "Gorilas",
+  "experience": 6,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567b0bf6b947e0e4d5647ea"
+  },
+  "active": true,
+  "name": "Ahmed Al-Farsi",
+  "specialty": "Tigres",
+  "experience": 10,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6567b0ee6b947e0e4d5647eb"
+  },
+  "active": true,
+  "name": "Emily Johnson",
+  "specialty": "Leopardos",
+  "experience": 5,
+  "__v": 0
+}]

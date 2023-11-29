@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "636fc61690f5dd0004c7db57"
+  },
+  "gamification": {
+    "points": 2,
+    "quiz": "11"
+  },
+  "active": true,
+  "name": "Admin",
+  "type": "admin",
+  "birth_date": {
+    "$date": "1975-07-04T00:00:00.000Z"
+  },
+  "description": "",
+  "location": {
+    "city": "",
+    "district": "",
+    "country": ""
+  },
+  "auth": {
+    "username": "admin",
+    "password": "$2a$04$wKnAbCIkTEdVjb6nr.82oukqwDKaYtHSaWLhVyZYZwq9ofJHcQr7W",
+    "public_key": "p4uurpg46r636fc61690f5dd0004c7db57",
+    "private_key": "e5khlcdfbpd636fc61690f5dd0004c7db57"
+  },
+  "registration_date": {
+    "$date": "2022-11-12T16:13:10.513Z"
+  },
+  "__v": 0
+}]
